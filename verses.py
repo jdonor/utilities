@@ -2,32 +2,65 @@ import sys
 
 # dictionaries
 compact_to_full_book = {
+    # Old Testament
     "Gen": "Genesis",
     "Ex": "Exodus",
     "Lev": "Leviticus",
     "Nu": "Numbers",
     "Dt": "Deuteronomy",
     "Jsh": "Joshua",  # unverified
-
+    "Jdg": "Judges",  # unverified
+    "Ruth": "Ruth",  # unverified
     "Sam": "Samuel",
+    "Kings": "Kings",  # unverified
     "Chr": "Chronicles",
-
-    "Zec": "Zechariah",
-
+    "Ezra": "Ezra",  # unverified
+    "Neh": "Nehemiah",  # unverified
+    "Es": "Esther",  # unverified
+    "Job": "Job",  # unverified
     "Ps": "Psalm",
+    "Pr": "Proverbs",  # unverified
+    "Ecc": "Ecclesiastes",  # unverified
+    "Songs": "Song of Songs",  # unverified
+    "Isa": "Isaiah",
+    "Jer": "Jeremiah",  # unverified
+    "Lam": "Lamentations",  # unverified
+    "Ez": "Ezekiel",  # unverified
+    "Dan": "Daniel",  # unverified
+    "Hos": "Hosea",  # unverified
+    "Joel": "Joel",  # unverified
+    "Amos": "Amos",  # unverified
+    "Obad": "Obadiah",  # unverified
+    "Jon": "Jonah",  # unverified
+    "Mic": "Micah",  # unverified
+    "Nah": "Nahum",  # unverified
+    "Hab": "Habakkuk",  # unverified
+    "Zeph": "Zephaniah",  # unverified
+    "Hag": "Haggai",  # unverified
+    "Zec": "Zechariah",
+    "Mal": "Malachi",  # unverified
 
+    # New Testament
     "Mt": "Matthew",
-
+    "Mk": "Mark",
     "Lk": "Luke",
     "Jn": "John",
     "Acts": "Acts",
-
+    "Rom": "Romans",
     "Cor": "Corinthians",
-
+    "Gal": "Galatians",  # unverified
     "Eph": "Ephesians",
-
+    "Ph": "Phillipians",  # unverified
+    "Col": "Colossians",  # unverified
+    "Thess": "Thessalonians",  # unverified
     "Tim": "Timothy",
-
+    "Ti": "Titus",  # unverified
+    "Phil": "Philemon",  # unverified
+    "Heb": "Hebrews",
+    "Jms": "James",
+    "Pet": "Peter",
+    "Jn": "John",  # unverified
+    "Jude": "Jude",  # unverified
     "Rev": "Revelation",
 }
 
