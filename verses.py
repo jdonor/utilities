@@ -25,7 +25,7 @@ compact_to_full_book = {
     "Isa": "Isaiah",
     "Jer": "Jeremiah",  # unverified
     "Lam": "Lamentations",  # unverified
-    "Ez": "Ezekiel",  # unverified
+    "Eze": "Ezekiel",
     "Dan": "Daniel",  # unverified
     "Hos": "Hosea",  # unverified
     "Joel": "Joel",  # unverified
@@ -51,7 +51,7 @@ compact_to_full_book = {
     "Gal": "Galatians",  # unverified
     "Eph": "Ephesians",
     "Ph": "Phillipians",  # unverified
-    "Col": "Colossians",  # unverified
+    "Col": "Colossians",
     "Thess": "Thessalonians",  # unverified
     "Tim": "Timothy",
     "Ti": "Titus",  # unverified
@@ -59,7 +59,6 @@ compact_to_full_book = {
     "Heb": "Hebrews",
     "Jms": "James",
     "Pet": "Peter",
-    "Jn": "John",  # unverified
     "Jude": "Jude",  # unverified
     "Rev": "Revelation",
 }
