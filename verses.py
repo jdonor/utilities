@@ -23,7 +23,7 @@ compact_to_full_book = {
     "Ecc": "Ecclesiastes",  # unverified
     "Songs": "Song of Songs",  # unverified
     "Isa": "Isaiah",
-    "Jer": "Jeremiah",  # unverified
+    "Jer": "Jeremiah",
     "Lam": "Lamentations",  # unverified
     "Eze": "Ezekiel",
     "Dan": "Daniel",  # unverified
@@ -48,13 +48,13 @@ compact_to_full_book = {
     "Acts": "Acts",
     "Rom": "Romans",
     "Cor": "Corinthians",
-    "Gal": "Galatians",  # unverified
+    "Gal": "Galatians",
     "Eph": "Ephesians",
     "Ph": "Phillipians",  # unverified
     "Col": "Colossians",
     "Thess": "Thessalonians",  # unverified
     "Tim": "Timothy",
-    "Ti": "Titus",  # unverified
+    "Titus": "Titus",
     "Phil": "Philemon",  # unverified
     "Heb": "Hebrews",
     "Jms": "James",
