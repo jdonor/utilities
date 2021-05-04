@@ -50,7 +50,7 @@ compact_to_full_book = {
     "Cor": "Corinthians",
     "Gal": "Galatians",
     "Eph": "Ephesians",
-    "Ph": "Phillipians",  # unverified
+    "Ph": "Philippians",  # unverified
     "Col": "Colossians",
     "Thess": "Thessalonians",  # unverified
     "Tim": "Timothy",
